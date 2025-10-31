@@ -591,9 +591,8 @@ form button {
     height: 5rem;
   }
 
-  .marquee-content {
-    margin-top: 0;
-    font-size: 5rem;
+  .marquee {
+    display: none;
   }
 
   .home-con {
