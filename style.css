@@ -593,7 +593,7 @@ form button {
 
   .marquee-content {
     margin-top: 0;
-    line-height: 12rem;
+    font-size: 5rem;
   }
 
   .home-con {
@@ -603,9 +603,5 @@ form button {
 
   .no-scroll {
     height: 100vh;
-  }
-
-  .marquee-content {
-    font-size: 5rem;
   }
 }
