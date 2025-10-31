@@ -608,4 +608,8 @@ form button {
   .marquee {
     display: none;
   }
+
+  .marquee-content {
+    font-size: 5rem;
+  }
 }
