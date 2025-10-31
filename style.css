@@ -605,10 +605,6 @@ form button {
     height: 100vh;
   }
 
-  .marquee {
-    display: none;
-  }
-
   .marquee-content {
     font-size: 5rem;
   }
